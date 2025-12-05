@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+
+# Data
+/data/
+/raw_data/
+/local_storage/
+
+# DVC files (will be committed but large data not added)
+*.dvc
