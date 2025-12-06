@@ -1,3 +1,6 @@
+!.dvc
+!/data/SM/data/insurance.csv
+
 # Python
 __pycache__/
 *.pyc
@@ -21,4 +24,4 @@ venv/
 /local_storage/
 
 # DVC files (will be committed but large data not added)
-*.dvc
+#*.dvc
